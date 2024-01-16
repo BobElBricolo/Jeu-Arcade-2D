@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc1fb25a9f1c71240b6be5b1cc24189d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _actionsAsset: {fileID: -944628639613478452, guid: 42f29017f463f0a4c852d14d236cfa38, type: 3}
+  - _txtScore: {instanceID: 0}
+  - _txtGameOver: {instanceID: 0}
+  - _txtRestart: {instanceID: 0}
+  - _txtQuit: {instanceID: 0}
+  - _pausePanel: {fileID: 4792313778019821491, guid: 940e01fcbaa9e5241a96a5aa1fa9a93f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
